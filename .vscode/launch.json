@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-JwtDemoApplication<jwtdemo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "org.zerhusen.JwtDemoApplication",
+            "projectName": "jwtdemo",
+            "args": ""
+        }
+    ]
+}
